@@ -27,6 +27,7 @@ HTML = """
  <form method="POST">
    <input type="text" name="isim" placeholder="Adını yaz" required>
    <button type="submit">Gönder</button>
+   <button type="submit">Temizle</button>
  </form>
  <h3>Ziyaretçiler:</h3>
  <ul>
